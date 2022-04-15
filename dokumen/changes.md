@@ -1,3 +1,4 @@
+[README.txt](https://github.com/topjohnwu/Magisk/files/8496745/README.txt)
 # Magisk Changelog
 
 ### v24.3
